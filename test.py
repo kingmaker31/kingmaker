@@ -1,1 +1,2 @@
-# 웹 스프랩핑 테스트 준비
+import requests
+from bs4 import BeautifulSoup
